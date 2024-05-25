@@ -10411,18 +10411,7 @@
 						"time": "06:09",
 						"location": "Sandbox"
 					},
-					"items": {
-						"stash": "2701543d66a433ca41b51b20",
-						"data": [
-							{
-								"_id": "fa9b57fb511f47f0a43076bf",
-								"_tpl": "55d4887d4bdc2d962f8b4570",
-								"parentId": "2701543d66a433ca41b51b20",
-								"slotId": "main",
-								"upd": {}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -10439,18 +10428,7 @@
 						"time": "06:43",
 						"location": "Sandbox"
 					},
-					"items": {
-						"stash": "2701543d66a433ca41b51b20",
-						"data": [
-							{
-								"_id": "c898cccc577db6aedfe64b1f",
-								"_tpl": "55d4887d4bdc2d962f8b4570",
-								"parentId": "2701543d66a433ca41b51b20",
-								"slotId": "main",
-								"upd": {}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -10467,25 +10445,7 @@
 						"time": "07:17",
 						"location": "Sandbox"
 					},
-					"items": {
-						"stash": "2701543d66a433ca41b51b20",
-						"data": [
-							{
-								"_id": "2c0fb00569588e84a9fbde45",
-								"_tpl": "55d4887d4bdc2d962f8b4570",
-								"parentId": "2701543d66a433ca41b51b20",
-								"slotId": "main",
-								"upd": {}
-							},
-							{
-								"_id": "5f34876955ab6f47caf42e21",
-								"_tpl": "55d4887d4bdc2d962f8b4570",
-								"parentId": "2701543d66a433ca41b51b20",
-								"slotId": "main",
-								"upd": {}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				}
 			],

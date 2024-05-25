@@ -11110,10 +11110,7 @@
 						"time": "07:22",
 						"location": "Sandbox"
 					},
-					"items": {
-						"stash": "b2edc497b703479a4b6eaefd",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -11286,89 +11283,7 @@
 						"time": "07:27",
 						"location": "Woods"
 					},
-					"items": {
-						"stash": "b2edc497b703479a4b6eaefd",
-						"data": [
-							{
-								"_id": "0332b942e3ae32b805577cf3",
-								"_tpl": "5645bcc04bdc2d363b8b4572",
-								"parentId": "b2edc497b703479a4b6eaefd",
-								"slotId": "main",
-								"upd": {}
-							},
-							{
-								"_id": "5e2558606d90d9562b2bdc2a",
-								"_tpl": "572b7fa524597762b747ce82",
-								"parentId": "b2edc497b703479a4b6eaefd",
-								"slotId": "main",
-								"upd": {}
-							},
-							{
-								"_id": "7f667dc0a433c22aab41ac2d",
-								"_tpl": "55d4887d4bdc2d962f8b4570",
-								"parentId": "d04705918da9e8a07edb5648",
-								"slotId": "3",
-								"location": {
-									"x": 0,
-									"y": 0,
-									"r": "Horizontal",
-									"isSearched": true
-								},
-								"upd": {}
-							},
-							{
-								"_id": "4dfbe5220ca87c48701211a8",
-								"_tpl": "55d4887d4bdc2d962f8b4570",
-								"parentId": "d04705918da9e8a07edb5648",
-								"slotId": "1",
-								"location": {
-									"x": 0,
-									"y": 0,
-									"r": "Horizontal",
-									"isSearched": true
-								},
-								"upd": {}
-							},
-							{
-								"_id": "1f5071ab0cf75202a599060f",
-								"_tpl": "64be79e2bf8412471d0d9bcc",
-								"parentId": "b2edc497b703479a4b6eaefd",
-								"slotId": "main",
-								"upd": {}
-							},
-							{
-								"_id": "316d42d54b875e709d5d3bd1",
-								"_tpl": "6570495b45d573133d0d6adb",
-								"parentId": "1f5071ab0cf75202a599060f",
-								"slotId": "Soft_armor_front",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 62.83,
-										"Durability": 56.83
-									}
-								}
-							},
-							{
-								"_id": "44a3b2814d5a76ca6a588828",
-								"_tpl": "657049d23425b19bbc0502f0",
-								"parentId": "1f5071ab0cf75202a599060f",
-								"slotId": "Soft_armor_back",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 58.04,
-										"Durability": 58.04
-									}
-								}
-							},
-							{
-								"_id": "d04705918da9e8a07edb5648",
-								"_tpl": "5df8a42886f77412640e2e75",
-								"parentId": "b2edc497b703479a4b6eaefd",
-								"slotId": "main",
-								"upd": {}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{

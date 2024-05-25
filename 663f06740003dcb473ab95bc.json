@@ -7630,18 +7630,38 @@
 					"text": "You have received a gift from JayBo8492nd",
 					"hasRewards": true,
 					"rewardCollected": false,
+					"items": {},
+					"maxStorageTime": 172800
+				}
+			],
+			"pinned": false,
+			"new": 1,
+			"attachmentsNew": 1
+		},
+		"6643022600002f25aed2930a": {
+			"_id": "6643022600002f25aed2930a",
+			"type": 1,
+			"messages": [
+				{
+					"_id": "5a65a79a00078cdf1194e590",
+					"uid": "6643022600002f25aed2930a",
+					"type": 1,
+					"dt": 1716534057,
+					"text": "You have received a gift from Hust",
+					"hasRewards": true,
+					"rewardCollected": false,
 					"items": {
-						"stash": "6613e1cf291a2e76b0026acc",
+						"stash": "6613bb72b5b0ba138a0fab07",
 						"data": [
 							{
-								"_id": "ba6407a475cae4c840ccfe58",
-								"_tpl": "5755356824597772cb798962",
-								"parentId": "6613e1cf291a2e76b0026acc",
+								"_id": "99601f27b1e6de2df54ebe78",
+								"_tpl": "55d4837c4bdc2d1d4e8b456c",
+								"parentId": "6613bb72b5b0ba138a0fab07",
 								"slotId": "main",
 								"location": {
-									"x": 5,
-									"y": 31,
-									"r": 0,
+									"x": 3,
+									"y": 7,
+									"r": "Horizontal",
 									"isSearched": true
 								},
 								"upd": {
@@ -7651,11 +7671,44 @@
 						]
 					},
 					"maxStorageTime": 172800
+				},
+				{
+					"_id": "c08187e58d46faa8de734b9b",
+					"uid": "6643022600002f25aed2930a",
+					"type": 1,
+					"dt": 1716536930,
+					"text": "You have received a gift from Hust",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"items": {
+						"stash": "6613bb72b5b0ba138a0fab07",
+						"data": [
+							{
+								"_id": "7377d9cd963e1b320053f82e",
+								"_tpl": "5938603e86f77435642354f4",
+								"parentId": "6613bb72b5b0ba138a0fab07",
+								"slotId": "main",
+								"location": {
+									"x": 0,
+									"y": 37,
+									"r": "Horizontal",
+									"isSearched": true
+								},
+								"upd": {
+									"Key": {
+										"NumberOfUsages": 0
+									},
+									"SpawnedInSession": false
+								}
+							}
+						]
+					},
+					"maxStorageTime": 172800
 				}
 			],
 			"pinned": false,
-			"new": 1,
-			"attachmentsNew": 1
+			"new": 2,
+			"attachmentsNew": 2
 		}
 	},
 	"aki": {
