@@ -6001,10 +6001,7 @@
 					"text": "You have received a gift from Desmond",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6613bb72b5b0ba138a0fab07",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -6015,10 +6012,7 @@
 					"text": "You have received a gift from Desmond",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6613bb72b5b0ba138a0fab07",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -6029,10 +6023,7 @@
 					"text": "You have received a gift from Desmond",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6613bb72b5b0ba138a0fab07",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -6336,10 +6327,7 @@
 					"templateId": "657315e270bb0b8dba00cc48 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "a1326832186dee5a42570046",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
