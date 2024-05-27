@@ -25824,10 +25824,7 @@
 					"templateId": "59674eb386f774539f14813a successMessageText",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "216d1ffecfc6db99368271de",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -25839,10 +25836,7 @@
 					"templateId": "59c124d686f774189b3c843f description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "8c1cda0487d6bef77a80c121",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -26027,10 +26021,7 @@
 					"templateId": "5968eb3186f7741dde183a4d successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "4fd7a46edfc40c13297ebc91",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -26139,10 +26130,7 @@
 					"templateId": "596b43fb86f77457ca186186 successMessageText",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "b1b0350b28736af48fc47dfa",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -26164,10 +26152,7 @@
 					"templateId": "5979ed3886f77431307dc512 successMessageText",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "7d82689fbeb9674a86029431",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -26179,10 +26164,7 @@
 					"templateId": "5979eee086f774311955e614 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "15abe1015e8d3fe160858c2e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -26518,10 +26500,7 @@
 					"templateId": "61604635c725987e815b1a46 successMessageText 5935c25fb3acc3127c3d8cd9 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "a63c54dd2a09b051bb1c788a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
