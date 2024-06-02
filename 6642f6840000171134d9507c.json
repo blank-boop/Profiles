@@ -10587,6 +10587,101 @@
 			"pinned": false,
 			"new": 0,
 			"attachmentsNew": 0
+		},
+		"664301e000010af3357a0520": {
+			"_id": "664301e000010af3357a0520",
+			"type": 1,
+			"messages": [
+				{
+					"_id": "04f220d5182434449a631fb7",
+					"uid": "664301e000010af3357a0520",
+					"type": 1,
+					"dt": 1717048997,
+					"text": "You have received a gift from kwambo",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"items": {
+						"stash": "6613bb72b5b0ba138a0fab07",
+						"data": [
+							{
+								"_id": "967b7e63858c9113498a19ac",
+								"_tpl": "5a38e6bac4a2826c6e06d79b",
+								"parentId": "6613bb72b5b0ba138a0fab07",
+								"slotId": "main",
+								"upd": {
+									"SpawnedInSession": false,
+									"Repairable": {
+										"MaxDurability": 91,
+										"Durability": 51.94889
+									},
+									"FireMode": {
+										"FireMode": "single"
+									}
+								},
+								"location": {
+									"x": 1,
+									"y": 82,
+									"r": "Horizontal",
+									"isSearched": true
+								}
+							},
+							{
+								"_id": "71b22fdf2395841c461c7f91",
+								"_tpl": "5a38ee51c4a282000c5a955c",
+								"parentId": "967b7e63858c9113498a19ac",
+								"slotId": "mod_magazine",
+								"upd": {
+									"SpawnedInSession": false
+								}
+							},
+							{
+								"_id": "775f88e3dba1336e0ec26498",
+								"_tpl": "5d6e695fa4b936359b35d852",
+								"parentId": "71b22fdf2395841c461c7f91",
+								"slotId": "cartridges",
+								"location": 0,
+								"upd": {
+									"SpawnedInSession": false
+								}
+							},
+							{
+								"_id": "4565e4240afd3d1dcdbd2914",
+								"_tpl": "5a38ef1fc4a282000b1521f6",
+								"parentId": "967b7e63858c9113498a19ac",
+								"slotId": "mod_stock",
+								"upd": {
+									"SpawnedInSession": false,
+									"Foldable": {
+										"Folded": false
+									}
+								}
+							},
+							{
+								"_id": "1f74d23802ead9c490d81f93",
+								"_tpl": "5a38eecdc4a282329a73b512",
+								"parentId": "4565e4240afd3d1dcdbd2914",
+								"slotId": "mod_pistol_grip",
+								"upd": {
+									"SpawnedInSession": false
+								}
+							},
+							{
+								"_id": "dcc55acba1d108b2757289fe",
+								"_tpl": "5d6e695fa4b936359b35d852",
+								"parentId": "967b7e63858c9113498a19ac",
+								"slotId": "patron_in_weapon",
+								"upd": {
+									"SpawnedInSession": false
+								}
+							}
+						]
+					},
+					"maxStorageTime": 172800
+				}
+			],
+			"pinned": false,
+			"new": 1,
+			"attachmentsNew": 1
 		}
 	},
 	"aki": {
