@@ -18601,10 +18601,7 @@
 					"templateId": "59c124d686f774189b3c843f successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "eed62260ebfbd854d3947b20",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -18636,10 +18633,7 @@
 					"templateId": "5967530a86f77462ba22226b successMessageText",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "cfd385746107b881924983b9",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -18828,10 +18822,7 @@
 						"time": "06:27",
 						"location": "Woods"
 					},
-					"items": {
-						"stash": "b2edc497b703479a4b6eaefd",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -18848,10 +18839,7 @@
 						"time": "07:23",
 						"location": "Woods"
 					},
-					"items": {
-						"stash": "b2edc497b703479a4b6eaefd",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -18868,10 +18856,7 @@
 						"time": "08:21",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "b2edc497b703479a4b6eaefd",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 518400
 				},
 				{
@@ -18980,11 +18965,39 @@
 						"time": "07:02",
 						"location": "bigmap"
 					}
+				},
+				{
+					"_id": "51b9bea0071dd80c439cb746",
+					"uid": "54cb57776803fa99248b456e",
+					"type": 8,
+					"dt": 1717564260,
+					"text": "",
+					"templateId": "58fe0e3486f77471f772c3f2 3",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "02.06.2024",
+						"time": "07:02",
+						"location": "bigmap"
+					},
+					"items": {
+						"stash": "b2edc497b703479a4b6eaefd",
+						"data": [
+							{
+								"_id": "28df8ff5c35ba3487ea226d8",
+								"_tpl": "5ab8f39486f7745cd93a1cca",
+								"parentId": "b2edc497b703479a4b6eaefd",
+								"slotId": "main",
+								"upd": {}
+							}
+						]
+					},
+					"maxStorageTime": 3600000
 				}
 			],
 			"pinned": false,
-			"new": 0,
-			"attachmentsNew": 0
+			"new": 1,
+			"attachmentsNew": 1
 		},
 		"58330581ace78e27b8b10cee": {
 			"_id": "58330581ace78e27b8b10cee",
@@ -19087,10 +19100,7 @@
 					"templateId": "596b43fb86f77457ca186186 successMessageText",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "932491f13b4f9e05eb601fb6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19112,10 +19122,7 @@
 					"templateId": "5979ed3886f77431307dc512 successMessageText",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "b55d66f1a2db15769b1ffc8f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19127,10 +19134,7 @@
 					"templateId": "5979eee086f774311955e614 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "09e37e7f24394e2fab7477b7",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19142,10 +19146,7 @@
 					"templateId": "5a27c99a86f7747d2c6bdd8e successMessageText",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "8983dbe8a1c9b9126e24d6a5",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19328,10 +19329,7 @@
 					"templateId": "61604635c725987e815b1a46 successMessageText 5a7c2eca46aef81a7ca2145d 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "9ffd7c1a9208a7a5430e9a17",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19353,10 +19351,7 @@
 					"templateId": "5ac2426c86f774138762edfe successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "b108e4806977040ff188ed9b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19430,10 +19425,7 @@
 					"templateId": "5d24b81486f77439c92d6ba8 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "9c60fa1da49d9f3996364328",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19516,10 +19508,7 @@
 					"text": "You have received a gift from Desmond",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6613bb72b5b0ba138a0fab07",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -19595,10 +19584,7 @@
 					"text": "You have received a gift from Hust",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6613bb72b5b0ba138a0fab07",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -19674,10 +19660,7 @@
 					"text": "You have received a gift from kwambo",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6613bb72b5b0ba138a0fab07",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19688,10 +19671,7 @@
 					"text": "You have received a gift from kwambo",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6613bb72b5b0ba138a0fab07",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19702,10 +19682,7 @@
 					"text": "You have received a gift from kwambo",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6613bb72b5b0ba138a0fab07",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19716,10 +19693,7 @@
 					"text": "You have received a gift from kwambo",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6613bb72b5b0ba138a0fab07",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -19761,10 +19735,7 @@
 					"text": "Your Ibuprofen painkillers 1 items were bought by jehree.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "80cc578da0c4aa8e22c64dc7",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19775,10 +19746,7 @@
 					"text": "Your Ibuprofen painkillers 1 items were bought by Snofielf.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "577a54096869243c4fe5a326",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19789,10 +19757,7 @@
 					"text": "Your Pack of nails 1 items were bought by DanW.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "d38ac23ef69e170cc5d52512",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19803,10 +19768,7 @@
 					"text": "Your Pack of nails 3 items were bought by Gizzy.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "b1a2b5f52200f040a47f259b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19817,10 +19779,7 @@
 					"text": "Your Pack of nails 1 items were bought by DasWulf.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "95ddae2b4c8fd39038205a9d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19831,10 +19790,7 @@
 					"text": "Your AK-74 Hexagon Wafflemaker 5.45x39 sound suppressor 1 items were bought by Kobrakon.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "892ac90945d4a844361658c6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19845,10 +19801,7 @@
 					"text": "Your Nightforce ATACR 7-35x56 34mm riflescope 1 items were bought by JustAShepard.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "4adf90dfed4ddaa52c6fb287",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19859,10 +19812,7 @@
 					"text": "Your AR-15 Magpul PRS GEN3 stock (Black) 1 items were bought by 蘑菇汤.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "b350f6dc6bf3969d381bf6d5",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19873,10 +19823,7 @@
 					"text": "Your AR-15 Magpul CTR Carbine stock (Black) 1 items were bought by pplatinumssEU.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "913ac2607c1cea839ec58309",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19887,10 +19834,7 @@
 					"text": "Your AKM PBS-1 7.62x39 sound suppressor 1 items were bought by Hubert.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "0ca72b4cdf1c96107e620315",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19901,10 +19845,7 @@
 					"text": "Your Dorm room 206 key 1 items were bought by PhantomInTime.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5d9112c0b10930fb8c4e1d9e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19915,10 +19856,7 @@
 					"text": "Your .300 Blackout CBJ 7 items were bought by mighty_condor.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "ee0def13512742d3708cff8f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19929,10 +19867,7 @@
 					"text": "Your .300 Blackout CBJ 8 items were bought by ChazLTK.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "36445893e762a3a4a6709cef",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19943,10 +19878,7 @@
 					"text": "Your .300 Blackout CBJ 5 items were bought by halik92.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "ab0c92f45082ac9c8f3a0544",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19957,10 +19889,7 @@
 					"text": "Your .300 Blackout CBJ 10 items were bought by MusicManiac.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "2a68d01c3fed7466682574be",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19971,10 +19900,7 @@
 					"text": "Your Bottle of OLOLO Multivitamins 1 items were bought by Spock.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "43285669049c075fbac1f3d0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19985,10 +19911,7 @@
 					"text": "Your Toothpaste 1 items were bought by Fershte.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "18f8badd283774b58a4b25d9",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -19999,10 +19922,7 @@
 					"text": "Your Roler Submariner gold wrist watch 1 items were bought by Ilhsiek.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "cfb919a716a259ddd43b99c7",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -20013,10 +19933,7 @@
 					"text": "Your CMS surgical kit 1 items were bought by 白闲者.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "acb5677aece01ec19a76dc26",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -20027,10 +19944,7 @@
 					"text": "Your Fuel conditioner 1 items were bought by PoppleO.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "403bdfe381a51e374d7781b3",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -20041,10 +19955,7 @@
 					"text": "Your PP-91-01 Kedr-B 9x18PM submachine gun 1 items were bought by lualeet.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "35ccd3fb3ec21cb1da77349e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -20243,91 +20154,14 @@
 		"location": "none",
 		"character": "pmc"
 	},
-	"insurance": [
-		{
-			"scheduledTime": 1717320068,
-			"traderId": "54cb57776803fa99248b456e",
-			"maxStorageTime": 3600000,
-			"systemData": {
-				"date": "02.06.2024",
-				"time": "07:02",
-				"location": "bigmap"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e3486f77471f772c3f2 3",
-			"items": [
-				{
-					"_id": "92031c11fab1ba48e27ddbe9",
-					"_tpl": "5c165d832e2216398b5a7e36",
-					"parentId": "b2edc497b703479a4b6eaefd",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "d78fb52b583650f0a68399e4",
-					"_tpl": "5b432d215acfc4771e1c6624",
-					"parentId": "b2edc497b703479a4b6eaefd",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "0c031d930917a86c54633aa0",
-					"_tpl": "657bb92fa1c61ee0c303631f",
-					"parentId": "d78fb52b583650f0a68399e4",
-					"slotId": "Helmet_top",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 17.46,
-							"Durability": 17.46
-						}
-					}
-				},
-				{
-					"_id": "afb693c71bcfd5d3c7a8e3d1",
-					"_tpl": "657bb99db30eca976305117f",
-					"parentId": "d78fb52b583650f0a68399e4",
-					"slotId": "Helmet_back",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 16.74,
-							"Durability": 12.74
-						}
-					}
-				},
-				{
-					"_id": "869480896af728f467149ba7",
-					"_tpl": "5ab8f39486f7745cd93a1cca",
-					"parentId": "b2edc497b703479a4b6eaefd",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "e19eac93a45bd5be3c4c752b",
-					"_tpl": "5ca20d5986f774331e7c9602",
-					"parentId": "b2edc497b703479a4b6eaefd",
-					"slotId": "hideout",
-					"upd": {}
-				}
-			]
-		}
-	],
+	"insurance": [],
 	"traderPurchases": {
 		"58330581ace78e27b8b10cee": {},
 		"54cb50c76803fa8b248b4571": {},
 		"5c0647fdd443bc2504c2d371": {},
 		"5a7c2eca46aef81a7ca2145d": {},
-		"5935c25fb3acc3127c3d8cd9": {
-			"65cb823c7e8e8aec5b0881c5": {
-				"count": 1,
-				"purchaseTimestamp": 1717309499
-			}
-		},
-		"54cb57776803fa99248b456e": {
-			"65cb82567e8e8aec5b088dac": {
-				"count": 1,
-				"purchaseTimestamp": 1717314161
-			}
-		}
+		"5935c25fb3acc3127c3d8cd9": {},
+		"54cb57776803fa99248b456e": {}
 	},
 	"achievements": {},
 	"userbuilds": {
