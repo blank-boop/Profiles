@@ -10607,6 +10607,46 @@
 			"pinned": false,
 			"new": 1,
 			"attachmentsNew": 1
+		},
+		"6641b34300031c994d45af5e": {
+			"_id": "6641b34300031c994d45af5e",
+			"type": 1,
+			"messages": [
+				{
+					"_id": "6fc3fdf4da2a3b7963cbe14e",
+					"uid": "6641b34300031c994d45af5e",
+					"type": 1,
+					"dt": 1717735821,
+					"text": "You have received a gift from Desmond",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"items": {
+						"stash": "6613bb72b5b0ba138a0fab07",
+						"data": [
+							{
+								"_id": "760056c15ae268752e63c80c",
+								"_tpl": "56dff3afd2720bba668b4567",
+								"parentId": "6613bb72b5b0ba138a0fab07",
+								"slotId": "main",
+								"location": {
+									"x": 2,
+									"y": 66,
+									"r": "Horizontal",
+									"isSearched": true
+								},
+								"upd": {
+									"StackObjectsCount": 60,
+									"SpawnedInSession": false
+								}
+							}
+						]
+					},
+					"maxStorageTime": 172800
+				}
+			],
+			"pinned": false,
+			"new": 1,
+			"attachmentsNew": 1
 		}
 	},
 	"aki": {
